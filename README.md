@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/diane-chiang#gh-light-mode-only)
-<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/diane-chiang#gh-dark-mode-only) -->
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/diane-chiang#gh-dark-mode-only)
 
 
 <h3 align="left">Languages and Tools:</h3>
